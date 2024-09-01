@@ -1,14 +1,15 @@
-QuestionApp
-
-10 Sorudan oluşan oluşan bir testtir.
-
-Her soru için 30 saniye bulunmaktadır.
-
-ilk 10 saniyeden sonra şıklar gözükmektedir.
-
-En son doğru yanlış sayısı görülmektedir.
-
-Proje kapsamında React kullanılmıştır.
+https://questionappgoksu.netlify.app/
 
 
-https://statuesque-madeleine-8649a6.netlify.app/
+
+
+![qa1](https://github.com/user-attachments/assets/ee53d9db-7a91-47cd-8d72-28169a643e86)
+
+
+
+![qa2](https://github.com/user-attachments/assets/f2f3e0bc-90b3-409f-91bb-aa1942f56355)
+
+
+
+![qa3](https://github.com/user-attachments/assets/ccbacf12-2758-4b0a-9c94-8167ae79314e)
+
