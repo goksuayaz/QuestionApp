@@ -1,3 +1,8 @@
+https://questionappgoksu.netlify.app/
+
+
+
+
 ![qa1](https://github.com/user-attachments/assets/ee53d9db-7a91-47cd-8d72-28169a643e86)
 
 
