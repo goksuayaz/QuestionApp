@@ -14,7 +14,7 @@ function Intro({ startTest, style }) {
     {
       id: 3,
       description:
-        "Soruların ekran kalma süresi 30 saniyedir.",
+        "Soruların ekranda kalma süresi 30 saniyedir.",
     },
     {
       id: 4,

@@ -4,7 +4,7 @@ function Results({ userAnswer, correctAnswer, wrongAnswer }) {
   return (
     <div className="results">
       <div>
-        <h2>Results</h2>
+        <h2>Sonuçlar </h2>
         <p>Doğru : {correctAnswer}</p>
         <p>Yanlış : {wrongAnswer}</p>
       </div>
